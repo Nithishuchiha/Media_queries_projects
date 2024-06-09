@@ -1,7 +1,10 @@
 Hello Everyone !
+<p>
+  
 **Learning Media Queries:**
 A Beginner to Advanced Project
 Welcome to this comprehensive project on Media Queries. This project is designed to take you from a beginner to an advanced level in understanding and implementing media queries in your web projects.
+</p>
 
 **Project Overview**
 In this project, we will be exploring the power of media queries in creating responsive web designs. We will start from the basics, understanding what media queries are, and gradually move towards more complex and advanced concepts.
