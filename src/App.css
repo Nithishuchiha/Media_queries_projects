@@ -1,0 +1,35 @@
+.block1 {
+  width: 100px;
+  padding: 20px;
+  height: 60px;
+  background-color: brown;
+}
+.block2 {
+  width: 100px;
+  padding: 20px;
+  height: 60px;
+  background-color: brown;
+}
+.block3 {
+  width: 100px;
+  padding: 20px;
+  height: 60px;
+  background-color: brown;
+}
+
+@media screen and (min-width: 600px) {
+  .block1 {
+    background-color: blue;
+  }
+}
+@media screen and (max-width: 500px) {
+  .block2 {
+    background-color: rgb(255, 0, 81);
+  }
+}
+
+@media screen and (min-width: 700px) {
+  .block3 {
+    background-color: white;
+  }
+}
